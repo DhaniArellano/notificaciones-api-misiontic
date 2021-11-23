@@ -26,7 +26,18 @@ or if you are using conda
  this server runs on 127.0.0.1:5000
  ### localhost/sms
  request parameters 
- > contenido : dsadasd
+ POST /sms 
+ contenido
+ destino 
+ POST /email
+ destino
+ asunto
+ contenido
+ 
+ 
+ 
+ 
+ 
  
  
 
